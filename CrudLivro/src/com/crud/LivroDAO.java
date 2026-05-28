@@ -1,3 +1,7 @@
+//Nome da dupla:
+//Kaueh Farias Ferreira dos Santos - CB3031438
+// Lucas da Silva Santos - CB3030598
+
 package com.crud;
 
 import java.sql.*;
